@@ -1,2 +1,2 @@
 # Crop-Recommendation-Application
-It a web application which a farmer is able to predict their crops to grow in a particular by inputting various weather elements. 
+It is a web application which farmers are able to predict their crops to be grown in a particular season by inputting various weather elements and also being able to anaylse the crop yield data for forecasting and suppply chain management.
